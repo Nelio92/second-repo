@@ -1,0 +1,1 @@
+Just a test to check if commiting and pushing to the repo works from another branch.
